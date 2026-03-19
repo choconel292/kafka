@@ -1,0 +1,4 @@
+com\gabriel\pss\Main.class
+com\gabriel\pss\payload\Item.class
+com\gabriel\pss\payload\Order.class
+com\gabriel\pss\config\KafkaTopicConfig.class
